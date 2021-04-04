@@ -4,7 +4,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>wall-e</title>
     <meta name="description" content="asd">
     <meta name="theme-color" content="#f54254">
     <link rel="icon" type="image/png" sizes="300x250" href="assets/img/superthumb.png">
