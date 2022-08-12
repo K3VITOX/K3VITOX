@@ -3,9 +3,7 @@
 
 # Algunos de mis proyectos 😮
 ```sh
-Bot ! walle#5900 (https://discord.com/api/oauth2/authorize?client_id=857894351261401098&permissions=0&scope=bot)
-
-Npm discord-responses (https://www.npmjs.com/package/discord-responses)
+Trabajando en algo nuevo que sacar a la luz...
 ```
 
 ## para más K3VITOX#6966
