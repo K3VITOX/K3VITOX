@@ -1,8 +1,6 @@
-# Hi there! I'm David
+# Hi there! I'm k3vitox
 
-I'm a **Minecraft developer** and **Full Stack Developer**; I'm knowledgeable in various technologies essential for the market's demands.
 
-Additionally, I have 5 years of experience in Minecraft Plugins and 2 years in Full Stack development.
 
 ## Developer Skills
 
