@@ -1,10 +1,10 @@
-## Hola, soy K3VITOX#6966
+## Hola, soy k3vitox
 
 
-# Algunos de mis proyectos 😮
+# Algunos de mis proyectos 🤔
 ```sh
 Trabajando en algo nuevo que sacar a la luz...
 ```
 
-## para más K3VITOX#6966
+## contacto **k3vitox**
 
