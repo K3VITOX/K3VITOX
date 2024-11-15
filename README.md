@@ -1,10 +1,22 @@
-## Hola, soy k3vitox
+# Mi Documento en Markdown
 
+## Introducción
+Este es un texto **resaltado** y aquí está un [enlace](https://ejemplo.com).
 
-# Algunos de mis proyectos 🤔
-```sh
-Trabajando en algo nuevo que sacar a la luz...
-```
+---
 
-## contacto **k3vitox**
+## Tareas pendientes
+- [x] Aprender Markdown
+- [ ] Practicar más
+- [ ] Crear documentos increíbles
+
+---
+
+## Tablas
+| Lenguaje | Nivel    | Uso         |
+|----------|----------|-------------|
+| Python   | Avanzado | Desarrollo  |
+| Markdown | Medio    | Documentos  |
+
+---
 
